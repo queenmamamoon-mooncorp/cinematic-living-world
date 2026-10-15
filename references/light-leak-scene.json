@@ -1,0 +1,77 @@
+{
+  "size": [
+    1080,
+    1920
+  ],
+  "strip": [
+    1800,
+    1920
+  ],
+  "environment_polygon": [
+    [
+      0,
+      1800
+    ],
+    [
+      1080,
+      1800
+    ],
+    [
+      1080,
+      1920
+    ],
+    [
+      0,
+      1920
+    ]
+  ],
+  "protected_rectangles": [],
+  "water_x": 540,
+  "water_y": 1860,
+  "flowers": [],
+  "glints": [],
+  "light_rails": [],
+  "prism_colors": "default",
+  "prism_regions": [
+    [
+      0,
+      0,
+      118,
+      1920,
+      "vertical",
+      -0.8
+    ],
+    [
+      962,
+      0,
+      1080,
+      1920,
+      "vertical",
+      2.3
+    ],
+    [
+      118,
+      0,
+      962,
+      135,
+      "horizontal",
+      0.5
+    ],
+    [
+      118,
+      1806,
+      962,
+      1920,
+      "horizontal",
+      3.5
+    ]
+  ],
+  "verify_unchanged": [
+    [
+      118,
+      135,
+      962,
+      1806
+    ]
+  ]
+}

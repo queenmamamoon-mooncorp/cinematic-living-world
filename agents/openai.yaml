@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cinematic Living World"
+  short_description: "Add cinematic light, depth, and visible motion"
+  default_prompt: "Use $cinematic-living-world to enhance my video with cinematic light and visible environmental motion while preserving my likeness and voice."
